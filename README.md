@@ -240,4 +240,4 @@ This repository serves as the official landing page for FIFA Online. The softwar
 **Get the most recent version of FIFA Online today!**
 
 ---
-**Last updated:** 2026-10-09 22:16:02 UTC
+**Last updated:** 2026-10-10 02:04:42 UTC
